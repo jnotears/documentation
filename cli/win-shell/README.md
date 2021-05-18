@@ -1,6 +1,8 @@
 ### Windows - Shell
 1. Change path:
-```cd [PATH]```
+```shell
+cd [PATH]
+```
 > Example: `cd ./foldername`
 2. Change file name:
 ```REN [drive:][path][source][target]```
