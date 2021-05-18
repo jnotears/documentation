@@ -8,9 +8,19 @@ cd [PATH]
 cd ./foldername
 ```
 2. Change file name:
-```REN [drive:][path][source][target]```
-> Example: `REN .\old_foldername new_name`
+```shell
+REN [drive:][path][source][target]
+```
+> Example: 
+```shell
+REN .\old_foldername new_name
+```
 3. Delete file:
-```DEL [filename]```
-> Example: `DEL s_folder\del_file`
+```shell
+DEL [filename]
+```
+> Example: 
+```shell
+DEL s_folder\del_file
+```
 4. 
