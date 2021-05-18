@@ -3,7 +3,9 @@
 ```shell
 cd [PATH]
 ```
-> Example: ```shell cd ./foldername```
+> Example: ```shell 
+cd ./foldername
+```
 2. Change file name:
 ```REN [drive:][path][source][target]```
 > Example: `REN .\old_foldername new_name`
