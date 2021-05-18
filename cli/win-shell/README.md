@@ -3,7 +3,8 @@
 ```shell
 cd [PATH]
 ```
-> Example: ```shell 
+> Example: 
+```shell 
 cd ./foldername
 ```
 2. Change file name:
